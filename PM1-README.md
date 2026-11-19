@@ -100,8 +100,7 @@ This exercise was performed strictly for educational purposes as part of the Net
 
 | Field | Detail |
 |-------|--------|
-| Name | Bhabani Priyadarshini Panda |
+| Name | Lalit Praful Bharambe |
 | Program | Networkwalks Cybersecurity & Ethical Hacking Internship |
-| Batch | B083 |
+| Batch | B084 |
 | Week | Week 3 – Project Module 1 |
-| LinkedIn | [linkedin.com/in/bhabani-panda-79a04a308](https://linkedin.com/in/bhabani-panda-79a04a308) |
